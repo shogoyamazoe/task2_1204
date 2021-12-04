@@ -1,0 +1,25 @@
+#timer{
+font-size: 100px;
+
+}
+
+.button{
+display:flex;
+}
+
+#start{
+width: 100px;
+height: 50px;
+margin-right: 10px;
+}
+
+#stop{
+width: 100px;
+height: 50px;
+margin-right: 10px;
+}
+#reset{
+width: 100px;
+height: 50px;
+margin-right: 10px;
+}
